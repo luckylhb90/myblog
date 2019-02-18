@@ -1,0 +1,35 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Hugo Theme Dream"
+theme = "hugo-theme-dream"
+hasCJKLanguage = true
+# 默认是70该主题采用了Hugo内置的摘要支持，大家可以通过<!--more-->自定义自己的摘要，也可以使用自动摘要，使用自动摘要时，
+summaryLength = 40 
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  author = "Author"
+  motto = "Motto"
+  # description = ""
+  # avatar = ""
+  
+  # email = ""
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2016
+  aboutHeader = "AboutMe"
+
+  paginate = 4
+
+  # favicon = "/favicon.ico"
