@@ -6,7 +6,7 @@ rev=$(git rev-parse --short HEAD)
 
 cd build
 
-git clone -b gh-pages https://${GIT_PATH} ./old
+git clone -b gh-pages https://$GIT_PATH ./old
 
 mv ./old/en ./en
 
@@ -18,7 +18,7 @@ git config user.name $GIT_NAME
 
 git config user.email $GIT_EMAIL
 
-git remote add upstream "https://$GITHUB_TOKEN@${GIT_PATH}"
+git remote add upstream "https://$TOKEN@$GIT_PATH"
 
 # comment below because we don't need history of gh-pages, and use git push --force to cover history
 # git fetch upstream
