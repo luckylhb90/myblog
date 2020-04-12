@@ -8,3 +8,4 @@
 [4-hugo完善LeaveIt小功能](./content/post/4-hugo完善LeaveIt小功能.md)  
 [5-面试凉凉心得](./content/post/5-面试凉凉心得.md)  
 [6-个人深刻理解B树、B+树、红黑树区别](./content/post/6-个人深刻理解B树、B+树、红黑树区别.md)  
+[7-二叉树的前序遍历递归，非递归个人理解](./content/post/7-二叉树的前序遍历递归，非递归个人理解.md)  
